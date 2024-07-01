@@ -14,6 +14,9 @@
 - 소설 로그인(카카오, 네이버, 애플) 기능 구현
 - 카테고리 편집(생성, 수정, 삭제) 화면 및 기능 구현
 
+## 📱 담당 개발 화면
+![담당 개발화면](https://github.com/letskooo/iOS_SwiftUI/blob/develop/image%2053-2.png)
+
 ## 📁 디렉토리 구조
 ```plaintext
 Namo_SwiftUI
